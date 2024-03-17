@@ -10,4 +10,4 @@
 - mui-icons
 - react-hot-toast
 
-
+#create NotFound.jsx as one of the pages to redirect to if the url is not correct
